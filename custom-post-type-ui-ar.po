@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Custom Post Type UI 0.8\n"
 "POT-Creation-Date: 2013-09-08 19:13-0600\n"
-"PO-Revision-Date: 2014-05-13 09:42-0000\n"
+"PO-Revision-Date: 2014-05-13 10:01-0000\n"
 "Last-Translator: Nabil Kadimi <nabil@kadimi-x-no-spam-x.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -15,38 +15,38 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:52
 msgid "Custom Post Types"
-msgstr ""
+msgstr "أنواع مقالات مخصصة"
 
 #: ../custom-post-type-ui.php:52
 msgid "CPT UI"
-msgstr ""
+msgstr "CPT UI"
 
 #: ../custom-post-type-ui.php:55
 #: ../custom-post-type-ui.php:1214
 msgid "Add New"
-msgstr ""
+msgstr "إضافة جديد"
 
 #: ../custom-post-type-ui.php:56
 msgid "Manage Post Types"
-msgstr ""
+msgstr "تسيير أنواع المقالات"
 
 #: ../custom-post-type-ui.php:57
 msgid "Manage Taxonomies"
-msgstr ""
+msgstr "تسيير التصنيفات"
 
 #: ../custom-post-type-ui.php:505
 #: ../custom-post-type-ui.php:1673
 msgid "Custom Post Type UI"
-msgstr ""
+msgstr "Custom Post Type UI"
 
 #: ../custom-post-type-ui.php:505
 #: ../custom-post-type-ui.php:1673
 msgid "version"
-msgstr ""
+msgstr "النسخة"
 
 #: ../custom-post-type-ui.php:507
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "الأسئلة الشائعة"
 
 #: ../custom-post-type-ui.php:508
 msgid "Please note that this plugin will NOT handle display of registered post types or taxonomies in your current theme. It will simply register them for you."
@@ -137,7 +137,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:882
 #: ../custom-post-type-ui.php:895
 msgid "Action"
-msgstr ""
+msgstr "الإجراء"
 
 #: ../custom-post-type-ui.php:593
 #: ../custom-post-type-ui.php:608
@@ -146,7 +146,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:883
 #: ../custom-post-type-ui.php:896
 msgid "Name"
-msgstr ""
+msgstr "الإسم"
 
 #: ../custom-post-type-ui.php:594
 #: ../custom-post-type-ui.php:609
@@ -157,7 +157,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:1177
 #: ../custom-post-type-ui.php:1469
 msgid "Label"
-msgstr ""
+msgstr "اللافتة"
 
 #: ../custom-post-type-ui.php:595
 #: ../custom-post-type-ui.php:610
@@ -165,7 +165,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:812
 #: ../custom-post-type-ui.php:1285
 msgid "Public"
-msgstr ""
+msgstr "عمومي"
 
 #: ../custom-post-type-ui.php:596
 #: ../custom-post-type-ui.php:611
@@ -176,7 +176,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:1295
 #: ../custom-post-type-ui.php:1603
 msgid "Show UI"
-msgstr ""
+msgstr "إظهار واجهة المستخدم"
 
 #: ../custom-post-type-ui.php:597
 #: ../custom-post-type-ui.php:612
@@ -198,7 +198,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:1340
 #: ../custom-post-type-ui.php:1623
 msgid "Rewrite"
-msgstr ""
+msgstr "إعادة الكتابة"
 
 #: ../custom-post-type-ui.php:599
 #: ../custom-post-type-ui.php:614
@@ -207,17 +207,17 @@ msgstr ""
 #: ../custom-post-type-ui.php:890
 #: ../custom-post-type-ui.php:903
 msgid "Rewrite Slug"
-msgstr ""
+msgstr "الاسم اللطيف لإعادة الكتابة"
 
 #: ../custom-post-type-ui.php:600
 #: ../custom-post-type-ui.php:615
 msgid "Total Published"
-msgstr ""
+msgstr "مجموع المنشور"
 
 #: ../custom-post-type-ui.php:601
 #: ../custom-post-type-ui.php:616
 msgid "Total Drafts"
-msgstr ""
+msgstr "مجموع المسودات"
 
 #: ../custom-post-type-ui.php:602
 #: ../custom-post-type-ui.php:617
@@ -228,18 +228,18 @@ msgstr ""
 #: ../custom-post-type-ui.php:636
 #: ../custom-post-type-ui.php:919
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #: ../custom-post-type-ui.php:636
 #: ../custom-post-type-ui.php:919
 #: ../custom-post-type-ui.php:1226
 msgid "Edit"
-msgstr ""
+msgstr "تحرير"
 
 #: ../custom-post-type-ui.php:636
 #: ../custom-post-type-ui.php:919
 msgid "Get Code"
-msgstr ""
+msgstr "الحصول على الشفرة"
 
 #: ../custom-post-type-ui.php:766
 msgid "Place the below code in your themes functions.php file to manually create this custom post type."
@@ -251,7 +251,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:788
 msgid "Additional Custom Post Types"
-msgstr ""
+msgstr "أنواع مقالات مخصصة إضافية"
 
 #: ../custom-post-type-ui.php:789
 msgid "The custom post types below are registered in WordPress but were not created by the Custom Post Type UI Plugin."
@@ -306,15 +306,15 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1059
 msgid "Create Custom Post Type"
-msgstr ""
+msgstr "إنشاء نوع مقال مخصص"
 
 #: ../custom-post-type-ui.php:1085
 msgid "Save Custom Taxonomy"
-msgstr ""
+msgstr "حفظ التصنيف المخصص"
 
 #: ../custom-post-type-ui.php:1087
 msgid "Create Custom Taxonomy"
-msgstr ""
+msgstr "إنشاء تصنيف مخصص"
 
 #: ../custom-post-type-ui.php:1104
 msgid "Custom post type created successfully. You may need to refresh to view the new post type in the admin menu."
@@ -414,7 +414,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1188
 msgid "Description"
-msgstr ""
+msgstr "الوصف"
 
 #: ../custom-post-type-ui.php:1188
 msgid "Custom Post Type Description.  Describe what your custom post type is used for."
@@ -466,7 +466,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:1232
 #: ../custom-post-type-ui.php:1547
 msgid "Edit Item"
-msgstr ""
+msgstr "تحرير العنصر"
 
 #: ../custom-post-type-ui.php:1234
 msgid "(e.g. Edit Movie)"
@@ -474,7 +474,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1238
 msgid "New Item"
-msgstr ""
+msgstr "عنصر جديد"
 
 #: ../custom-post-type-ui.php:1240
 msgid "(e.g. New Movie)"
@@ -482,7 +482,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1244
 msgid "View"
-msgstr ""
+msgstr "مشاهدة"
 
 #: ../custom-post-type-ui.php:1246
 #: ../custom-post-type-ui.php:1252
@@ -545,7 +545,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:1643
 #: ../custom-post-type-ui.php:1646
 msgid "False"
-msgstr ""
+msgstr "خطأ"
 
 #: ../custom-post-type-ui.php:1289
 #: ../custom-post-type-ui.php:1299
@@ -562,7 +562,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:1644
 #: ../custom-post-type-ui.php:1647
 msgid "True"
-msgstr ""
+msgstr "صحيح"
 
 #: ../custom-post-type-ui.php:1290
 #: ../custom-post-type-ui.php:1300
@@ -573,7 +573,7 @@ msgstr ""
 #: ../custom-post-type-ui.php:1618
 #: ../custom-post-type-ui.php:1628
 msgid "(default: True)"
-msgstr ""
+msgstr "(الافتراضي: صحيح)"
 
 #: ../custom-post-type-ui.php:1295
 msgid "Whether to generate a default UI for managing this post type"
@@ -581,7 +581,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1305
 msgid "Has Archive"
-msgstr ""
+msgstr "له أرشيف"
 
 #: ../custom-post-type-ui.php:1305
 msgid "Whether the post type will have a post type archive page"
@@ -593,11 +593,11 @@ msgstr ""
 #: ../custom-post-type-ui.php:1598
 #: ../custom-post-type-ui.php:1649
 msgid "(default: False)"
-msgstr ""
+msgstr "(الافتراضي: خطأ)"
 
 #: ../custom-post-type-ui.php:1315
 msgid "Exclude From Search"
-msgstr ""
+msgstr "الاستثناء من البحث"
 
 #: ../custom-post-type-ui.php:1315
 msgid "Whether the post type will be searchable"
@@ -605,7 +605,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1325
 msgid "Capability Type"
-msgstr ""
+msgstr "نوع الكفاءة"
 
 #: ../custom-post-type-ui.php:1325
 msgid "The post type to use for checking read, edit, and delete capabilities"
@@ -634,7 +634,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1355
 msgid "With Front"
-msgstr ""
+msgstr "مع واجهة أمامية"
 
 #: ../custom-post-type-ui.php:1355
 msgid "Should the permastruct be prepended with the front base."
@@ -642,7 +642,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1375
 msgid "Menu Position"
-msgstr ""
+msgstr "موضع القائمة"
 
 #: ../custom-post-type-ui.php:1375
 msgid "The position in the menu order the post type should appear. show_in_menu must be true."
@@ -654,7 +654,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1382
 msgid "Show in Menu"
-msgstr ""
+msgstr "الإظهار في القائمة"
 
 #: ../custom-post-type-ui.php:1382
 msgid "Whether to show the post type in the admin menu and where to show that menu. Note that show_ui must be true"
@@ -666,7 +666,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1395
 msgid "Menu Icon"
-msgstr ""
+msgstr "أيقونة القائمة"
 
 #: ../custom-post-type-ui.php:1395
 msgid "URL to image to be used as menu icon."
@@ -674,7 +674,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1403
 msgid "Title"
-msgstr ""
+msgstr "العنوان"
 
 #: ../custom-post-type-ui.php:1403
 msgid "Adds the title meta box when creating content for this custom post type"
@@ -722,7 +722,7 @@ msgstr ""
 
 #: ../custom-post-type-ui.php:1409
 msgid "Revisions"
-msgstr ""
+msgstr "المراجعات"
 
 #: ../custom-post-type-ui.php:1409
 msgid "Adds the revisions meta box when creating content for this custom post type"
